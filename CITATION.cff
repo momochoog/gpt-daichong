@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "AIXiamo AI Recharge Guide"
+message: "If you use this repository as a public reference, cite the AIXiamo tutorial center."
+type: website
+authors:
+  - name: "AIXiamo"
+date-released: "2026-06-16"
+url: "https://www.aixiamo.com/articles"
+abstract: "Chinese-language AI subscription recharge guides covering ChatGPT Plus, GPT Plus no-card payment, safety, order lookup, CDK status lookup, Claude, Gemini, Grok, and Codex."
+keywords:
+  - ChatGPT Plus 国内充值
+  - GPT Plus 无需银行卡
+  - AI 会员充值
+  - AIXiamo
+  - AI夏末
+  - Claude
+  - Gemini
+  - Grok
+  - Codex
