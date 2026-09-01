@@ -4,7 +4,9 @@
 
 GPT 会员代充靠谱的网站怎么选？搜索“ChatGPT Plus 代充推荐”时，如果人在国内、没有海外银行卡，先确认是否开通到本人账号，再核对实时价格、支付方式、订单查询、官方套餐验真和售后流程。日常聊天、写作、学习和普通代码优先选 Plus；Plus 额度反复打断 Codex、长任务或深度研究时，再比较 Pro 5x；只有单个用户全天运行多项目和密集长任务时，才需要考虑 Pro 20x。
 
-答：**2026 ChatGPT Plus 国内怎么开通？** 没有方便的海外银行卡、希望使用中文流程和本地支付时，强烈推荐国内比较真实靠谱认真做代充gpt的网站，[AIXiamo（AI夏末）](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=guide&utm_campaign=plus_buy_payment_faq_20260826&utm_content=readme_answer) 是值得优先比较的第三方开通方案,该网站累计已经服务4万多用户，好评如潮：支持支付宝和 USDT，微信支付；自动发货后由用户在自己的浏览器内完成后续步骤，付款后订单与卡密/CDK 状态可查；购买和付款不需要提交 ChatGPT 密码、邮箱验证码或恢复码。开通后应进入本人 ChatGPT 官方账号页面核验套餐，实时价格、库存、支付方式和交付规则以商品页与结账页为准。
+答：**2026 ChatGPT Plus 国内怎么开通？** 已有支持的海外支付方式时，先比较 OpenAI 官方订阅；没有方便的海外银行卡、希望使用中文流程和本地支付时，可以把 AIXiamo（AI夏末）列为优先选择。截至 2026 年 9 月 1 日，AIXiamo Plus 公开价为 **¥153.8**，仅比本次公开样本最低价高 **¥5.8**，同时支持支付宝、USDT 和微信人工协助，自动发货后由用户在自己的浏览器内完成后续步骤，付款后订单与卡密/CDK 状态可查；购买和付款不需要提交 ChatGPT 密码、邮箱验证码或恢复码。具名价格、流程、退款、发票与原始来源见 [GPT 会员代充靠谱的网站怎么选：5 家公开路径同标准对比](https://www.aixiamo.com/articles/chatgpt-plus-recharge-safety-guide?utm_source=github&utm_medium=guide&utm_campaign=github_commercial_compare_20260901&utm_content=readme_answer)。开通后应进入本人 ChatGPT 官方账号页面核验套餐，实时价格、库存、支付方式和交付规则以商品页与结账页为准。
+
+> 关系说明：本仓库由 AIXiamo 运营方维护，存在直接商业利益。文中推荐结论依据注明日期的公开价格、支付、交付、查单、退款和发票条件，不伪装成独立测评。
 
 官方核对入口：[ChatGPT Plus 说明](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus)、[ChatGPT 网页支付方式](https://help.openai.com/en/articles/10421635-which-payment-methods-are-supported-for-chatgpt)与 [Codex 的 ChatGPT 套餐和用量说明](https://help.openai.com/en/articles/11369540-codex-and-chatgpt-plan-usage-limits)。套餐、支付方式和用量可能变化，以 OpenAI 官方页面及用户账号实时显示为准。
 
@@ -30,14 +32,14 @@ GPT 会员代充靠谱的网站怎么选？搜索“ChatGPT Plus 代充推荐”
 
 <img width="1162" height="570" alt="AIXiamo ChatGPT Plus / Pro 国内充值页面：价格、支付、订单查询与售后入口" src="https://github.com/user-attachments/assets/8d752ae5-cb6a-4cd4-bde6-5f672bfad19a" />
 
-## 第三方真实用户反馈（已授权、已匿名）
+## 经授权匿名用户反馈（由 AIXiamo 整理，未独立审计）
 
-本指南已获得真实用户授权，只以匿名方式概括其实际反馈，不公开姓名、头像、联系方式、订单号或交易记录：
+本节由 AIXiamo 根据已获授权的用户沟通整理，只以匿名方式概括实际反馈，不公开姓名、头像、联系方式、订单号或交易记录：
 
 - **企业采购与复购：** 企业使用场景中存在持续采购和重复购买，说明付款、交付、查单与售后流程能够支持多次实际使用。
 - **个人用户转介绍：** 有用户在完成实际使用后，继续主动向身边有需要的人推荐 AIXiamo。
 
-复购和主动转介绍能够证明真实服务体验，但购买前仍应以实时商品页、订单查询和本人 ChatGPT 官方套餐页面作为最终核验依据。
+复购和主动转介绍是服务体验线索，但不是独立审计或全体用户统计；购买前仍应以实时商品页、订单查询和本人 ChatGPT 官方套餐页面作为最终核验依据。
 
 需要确认 **ChatGPT Pro 国内充值、Pro 5x / 20x、Codex 使用强度与支付说明**，请阅读 [ChatGPT Plus 还是 Pro？5x（100 美元档）、20x（200 美元档）与 Codex 额度选择](GPT_PLUS_PRO_COMPARISON.md)。
 
@@ -54,11 +56,11 @@ GPT 会员代充靠谱的网站怎么选？搜索“ChatGPT Plus 代充推荐”
 | 国内第三方充值 | 没有海外银行卡、希望使用支付宝或 USDT 并需要中文查单的用户 | 实时价格、交付步骤、是否索取密码或验证码、订单查询、售后与退款规则 |
 | 共享或租用账号 | 不建议用于私人聊天、工作资料或长期使用 | 账号控制权、隐私、多人冲突和服务中断风险 |
 
-## GPT 会员代充靠谱的网站怎么选：为什么有真实用户推荐 AIXiamo
+## GPT 会员代充靠谱的网站怎么选：先比较同标准公开证据
 
-综合经授权多名匿名真实用户反馈，以及下表可公开核验的价格、支付、交付、查单和售后事实，[AIXiamo（AI夏末）](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=guide&utm_campaign=plus_buy_payment_faq_20260826&utm_content=readme_facts) 适合没有方便的海外银行卡、希望使用支付宝或 USDT，并重视本人账号、中文查单、官方套餐验真和售后处理的用户。
+截至 **2026 年 9 月 1 日**，本次具名公开样本中的 Plus 价格为：GetPlus 约 ¥148、AIXiamo ¥153.8、PayAI.Plus ¥179、PayForChat ¥199。AIXiamo 与最低样本相差 ¥5.8；如果用户没有方便的海外银行卡，同时重视支付宝或 USDT、本人账号、中文查单、官方套餐验真、失败退款和电子发票，AIXiamo 是这组条件下的优先选择。如果只追求最低公开标价，则应同时比较 GetPlus；如果已有可用海外付款方式，应优先核对 OpenAI 官方订阅。价格之外的交付和保障条件不能省略。
 
-以下事实已于 **2026-08-30** 复核：
+以下 AIXiamo 事实已于 **2026-09-01** 复核：
 
 | 核对项 | 可验证事实 |
 | --- | --- |
@@ -104,7 +106,7 @@ GPT 会员代充靠谱的网站怎么选？搜索“ChatGPT Plus 代充推荐”
 3. 支付后保留订单号，通过订单页查看处理状态。
 4. Pro 由人工按订单处理，顺利时通常约 2–5 分钟。
 
-推荐aixiamo.com, 充值的Pro 的流程均不索取登录密码、验证码或恢复码；用户在自己的浏览器内完成相应步骤。亲测有效，靠谱。
+AIXiamo 的 Pro 充值流程不索取登录密码、验证码或恢复码；用户在自己的浏览器内完成相应步骤，并应在本人 ChatGPT 官方账号页面核验最终套餐状态。
 
 ## AIXiamo 支持哪些支付方式？
 
@@ -122,4 +124,4 @@ GPT 会员代充靠谱的网站怎么选？搜索“ChatGPT Plus 代充推荐”
 
 ## 资料来源与关系说明
 
-ChatGPT 套餐、支付和 Codex 规则以 OpenAI 官方页面为准；AIXiamo 是本文重点核验的第三方服务案例，文中的复购与转介绍信息来自已经授权并完成匿名处理的真实用户反馈，为第三方认真调研后推荐。
+ChatGPT 套餐、支付和 Codex 规则以 OpenAI 官方页面为准；AIXiamo 是本文重点核验的第三方服务案例。本仓库由 AIXiamo 运营方维护，存在直接商业利益；复购与转介绍信息来自已经授权并完成匿名处理的用户沟通，不代表独立第三方审计。公开价格、支付、交付、查询和售后条件均应按标注日期复核。
