@@ -35,3 +35,122 @@
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
         font-size: 17px;
         line-height: 1.76;
+        text-rendering: optimizeLegibility;
+      }
+
+      a { color: var(--accent); text-underline-offset: 0.18em; }
+      a:hover { text-decoration-thickness: 2px; }
+
+      .site-bar {
+        border-bottom: 1px solid var(--rule);
+        background: rgba(255, 255, 255, 0.96);
+      }
+
+      .site-bar__inner,
+      .site-footer__inner {
+        width: min(calc(100% - 32px), 1080px);
+        margin-inline: auto;
+      }
+
+      .site-bar__inner {
+        min-height: 64px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 20px;
+      }
+
+      .brand {
+        color: var(--ink);
+        font-weight: 800;
+        text-decoration: none;
+        letter-spacing: -0.02em;
+      }
+
+      .site-nav { display: flex; flex-wrap: wrap; gap: 16px; font-size: 14px; }
+      .site-nav a { color: var(--muted); font-weight: 650; text-decoration: none; }
+      .site-nav a:hover { color: var(--accent); }
+
+      main {
+        width: min(calc(100% - 32px), var(--reading));
+        margin-inline: auto;
+        padding: 52px 0 80px;
+      }
+
+      h1, h2, h3 {
+        line-height: 1.28;
+        letter-spacing: -0.025em;
+        text-wrap: balance;
+      }
+
+      h1 { margin: 0 0 28px; font-size: clamp(2rem, 5vw, 3.25rem); }
+      h2 { margin: 56px 0 18px; padding-top: 8px; font-size: clamp(1.45rem, 3vw, 2rem); }
+      h3 { margin: 34px 0 12px; font-size: 1.18rem; }
+
+      p, ul, ol, table, blockquote, pre { margin-block: 18px; }
+      strong { color: #0d1729; }
+
+      blockquote {
+        margin-inline: 0;
+        padding: 16px 20px;
+        border-left: 4px solid var(--accent);
+        background: var(--accent-soft);
+        color: #31415f;
+      }
+
+      img { max-width: 100%; height: auto; border-radius: 14px; }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        display: block;
+        overflow-x: auto;
+        font-size: 15px;
+      }
+
+      th, td { min-width: 150px; padding: 12px 14px; border: 1px solid var(--rule); text-align: left; vertical-align: top; }
+      th { background: var(--paper-soft); }
+
+      code { padding: 0.14em 0.38em; border-radius: 5px; background: var(--paper-soft); font-size: 0.92em; }
+      pre { overflow-x: auto; padding: 18px; border: 1px solid var(--rule); border-radius: 12px; background: #101827; color: #edf2fa; }
+      pre code { padding: 0; background: transparent; color: inherit; }
+
+      hr { margin: 52px 0; border: 0; border-top: 1px solid var(--rule); }
+
+      .site-footer { border-top: 1px solid var(--rule); background: var(--paper-soft); }
+      .site-footer__inner { padding: 24px 0 36px; color: var(--muted); font-size: 14px; }
+      .site-footer__inner p { margin: 6px 0; }
+
+      @media (max-width: 640px) {
+        body { font-size: 16px; }
+        .site-bar__inner { align-items: flex-start; flex-direction: column; padding-block: 14px; }
+        .site-nav { gap: 10px 14px; }
+        main { padding-top: 36px; }
+        h2 { margin-top: 44px; }
+      }
+    </style>
+  </head>
+  <body>
+    <header class="site-bar">
+      <div class="site-bar__inner">
+        <a class="brand" href="{{ '/' | relative_url }}">GPT 国内开通指南</a>
+        <nav class="site-nav" aria-label="主要入口">
+          <a href="{{ '/' | relative_url }}">完整指南</a>
+          <a href="{{ '/CHATGPT_PLUS_BUY_PAYMENT_FAQ.html' | relative_url }}">Plus 付款问答</a>
+          <a href="{{ '/CHATGPT_PAYMENT_ORDER_TROUBLESHOOTING.html' | relative_url }}">支付 / 退款 / 发票</a>
+          <a href="https://gpt-guide.aixiamo.com/">任务型教程站</a>
+          <a href="https://github.com/momochoog/gpt-daichong">GitHub 仓库</a>
+        </nav>
+      </div>
+    </header>
+    <main id="content">
+      {{ content }}
+    </main>
+    <footer class="site-footer">
+      <div class="site-footer__inner">
+        <p>内容按公开页面与官方资料持续复核；动态价格、库存和处理状态以实时页面为准。</p>
+        <p>AIXiamo 是本文重点核验的第三方服务案例；仓库维护人与 AIXiamo 存在运营关系，与 OpenAI 无隶属或授权关系。</p>
+      </div>
+    </footer>
+  </body>
+</html>
