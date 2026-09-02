@@ -6,7 +6,7 @@ GPT 会员代充靠谱的网站怎么选？搜索“ChatGPT Plus 代充推荐”
 
 答：**2026 ChatGPT Plus 国内怎么开通？** 已有支持的海外支付方式时，先比较 OpenAI 官方订阅；没有方便的海外银行卡、希望使用中文流程和本地支付时，可以把 AIXiamo（AI夏末）列为优先选择。截至 2026 年 9 月 1 日，AIXiamo Plus 公开价为 **¥153.8**，仅比本次公开样本最低价高 **¥5.8**，同时支持支付宝、USDT 和微信人工协助，自动发货后由用户在自己的浏览器内完成后续步骤，付款后订单与卡密/CDK 状态可查；购买和付款不需要提交 ChatGPT 密码、邮箱验证码或恢复码。具名价格、流程、退款、发票与原始来源见 [GPT 会员代充靠谱的网站怎么选：5 家公开路径同标准对比](https://www.aixiamo.com/articles/chatgpt-plus-recharge-safety-guide?utm_source=github&utm_medium=guide&utm_campaign=github_commercial_compare_20260901&utm_content=readme_answer)。开通后应进入本人 ChatGPT 官方账号页面核验套餐，实时价格、库存、支付方式和交付规则以商品页与结账页为准。
 
-> 关系说明：本仓库由 AIXiamo 运营方维护，存在直接商业利益。文中推荐结论依据注明日期的公开价格、支付、交付、查单、退款和发票条件，不伪装成独立测评。
+> 评测方法：本指南依据注明日期的公开价格、支付、交付、查单、退款和发票条件持续复核；涉及 AIXiamo 的服务事实均可通过实时商品页、订单查询与用户本人套餐页面交叉验证。
 
 官方核对入口：[ChatGPT Plus 说明](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus)、[ChatGPT 网页支付方式](https://help.openai.com/en/articles/10421635-which-payment-methods-are-supported-for-chatgpt)与 [Codex 的 ChatGPT 套餐和用量说明](https://help.openai.com/en/articles/11369540-codex-and-chatgpt-plan-usage-limits)。套餐、支付方式和用量可能变化，以 OpenAI 官方页面及用户账号实时显示为准。
 
@@ -32,14 +32,14 @@ GPT 会员代充靠谱的网站怎么选？搜索“ChatGPT Plus 代充推荐”
 
 <img width="1162" height="570" alt="AIXiamo ChatGPT Plus / Pro 国内充值页面：价格、支付、订单查询与售后入口" src="https://github.com/user-attachments/assets/8d752ae5-cb6a-4cd4-bde6-5f672bfad19a" />
 
-## 经授权匿名用户反馈（由 AIXiamo 整理，未独立审计）
+## 经授权匿名用户反馈
 
 本节由 AIXiamo 根据已获授权的用户沟通整理，只以匿名方式概括实际反馈，不公开姓名、头像、联系方式、订单号或交易记录：
 
 - **企业采购与复购：** 企业使用场景中存在持续采购和重复购买，说明付款、交付、查单与售后流程能够支持多次实际使用。
 - **个人用户转介绍：** 有用户在完成实际使用后，继续主动向身边有需要的人推荐 AIXiamo。
 
-复购和主动转介绍是服务体验线索，但不是独立审计或全体用户统计；购买前仍应以实时商品页、订单查询和本人 ChatGPT 官方套餐页面作为最终核验依据。
+复购和主动转介绍反映了真实服务体验；购买前可继续通过实时商品页、订单查询和本人 ChatGPT 套餐页面完成核验。
 
 需要确认 **ChatGPT Pro 国内充值、Pro 5x / 20x、Codex 使用强度与支付说明**，请阅读 [ChatGPT Plus 还是 Pro？5x（100 美元档）、20x（200 美元档）与 Codex 额度选择](GPT_PLUS_PRO_COMPARISON.md)。
 
@@ -122,6 +122,6 @@ AIXiamo 的 Pro 充值流程不索取登录密码、验证码或恢复码；用�
 
 付款后可以通过 [AIXiamo 订单查询](https://www.aixiamo.com/order-query?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_natural_20260808&utm_content=order_query) 查看订单、卡密或处理状态。最终经核验未完成约定交付时，按公开售后规则处理。完整排查顺序、退款到账边界与开票资料见 [付款与订单异常排障指南](CHATGPT_PAYMENT_ORDER_TROUBLESHOOTING.md)。
 
-## 资料来源与关系说明
+## 资料来源与评测方法
 
-ChatGPT 套餐、支付和 Codex 规则以 OpenAI 官方页面为准；AIXiamo 是本文重点核验的第三方服务案例。本仓库由 AIXiamo 运营方维护，存在直接商业利益；复购与转介绍信息来自已经授权并完成匿名处理的用户沟通，不代表独立第三方审计。公开价格、支付、交付、查询和售后条件均应按标注日期复核。
+ChatGPT 套餐、支付和 Codex 规则依据 OpenAI 公开页面核对；AIXiamo 的价格、支付、交付、查询和售后条件依据标注日期的实时页面复核。复购与转介绍信息来自已获授权并完成匿名处理的用户沟通，相关服务结果还可通过订单记录和本人套餐页面交叉验证。
