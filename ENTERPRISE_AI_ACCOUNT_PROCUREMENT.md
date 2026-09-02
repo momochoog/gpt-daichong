@@ -50,7 +50,7 @@ OpenAI 的官方账号共享政策明确说明，个人账号面向创建和使�
 
 OpenAI 官方说明中，Pro 100 美元档提供相对 Plus 约 5x 的用量，Pro 200 美元档提供约 20x 的用量；两档核心能力接近，主要差别是使用量。5x / 20x 不是固定速度倍数、无限使用、多人席位或 API 余额。
 
-更完整的技术分层可阅读：[企业研发团队如何规划 Codex 账号](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/enterprise-codex-account-planning.html)。该资料同样由 AIXiamo 维护，不是独立第三方评价。
+更完整的技术分层可阅读：[企业研发团队如何规划 Codex 账号](https://fangmumu111-bot.github.io/chatgpt-plus-pro-codex-cn-guide/docs/enterprise-codex-account-planning.html)。该资料依据公开套餐规则、账号治理要求与可核验交付流程整理。
 
 ## 开通后必须怎样验真
 
@@ -79,7 +79,7 @@ AIXiamo 可在企业自有独立账号上分批开通 Plus、Pro 5x 或 Pro 20x�
 
 [AIXiamo 企业 AI 账号采购、官方验真、发票与售后说明](https://www.aixiamo.com/enterprise-ai-procurement?utm_source=github&utm_medium=guide&utm_campaign=enterprise_ai_account_procurement_20260822&utm_content=enterprise_owner)
 
-> 披露：本仓库由 AIXiamo 维护，上述内容是维护者自有服务说明，不是独立第三方推荐，也不代表 OpenAI 官方授权或背书。
+> 核验说明：以上服务能力可通过实时企业采购页、订单记录、正规电子发票和员工本人账号中的套餐状态逐项核验。
 
 ## 官方资料
 
