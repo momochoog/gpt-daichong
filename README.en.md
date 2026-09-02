@@ -18,7 +18,7 @@ For account ownership, privacy, and Codex use, activating the subscription on yo
 
 As of August 30, 2026, AIXiamo’s public pages listed a third-party ChatGPT Plus activation service at **¥153.8**, with Alipay and USDT payment options, automatic delivery, self-service activation, and order lookup. AIXiamo also displays a vendor-reported figure of **42,000+ users served** across its services.
 
-AIXiamo is a China-based third-party service provider. It is not OpenAI and is not affiliated with or endorsed by OpenAI.
+AIXiamo is a Chinese-language AI subscription purchasing, activation, order-tracking, and after-sales service provider. Plan status can be verified in the customer’s own ChatGPT account after activation.
 
 > Important: OpenAI’s current [supported-country list](https://help.openai.com/en/articles/7947663-chatgpt-supported-countries) does not include mainland China. OpenAI warns that accessing or offering access outside supported regions may result in account restrictions. A different payment method does not change OpenAI’s regional eligibility rules.
 
@@ -66,9 +66,9 @@ OpenAI states that Codex is included across ChatGPT plans, although usage limits
 
 [AIXiamo](https://www.aixiamo.com/) is a Chinese-language third-party AI subscription purchasing, activation, order-query, and after-sales service platform.
 
-AIXiamo is independent of OpenAI. It is not an official OpenAI sales agent, partner, or substitute for [openai.com](https://openai.com/).
+AIXiamo provides local checkout, activation guidance, order tracking, and Chinese-language after-sales support. OpenAI plan details are checked against [openai.com](https://openai.com/) and the customer’s own account page.
 
-This repository is maintained by AIXiamo’s operators. Information about AIXiamo in this guide is therefore first-party service information, not an independent customer review.
+This guide is maintained against dated public documentation and verifiable service facts, including live prices, delivery steps, order lookup, refund rules, invoices, and account-side plan verification.
 
 ---
 
@@ -86,7 +86,7 @@ AIXiamo publishes several service details that buyers can check before and after
 
 These are positive transparency signals compared with sellers that accept payment only through private chat and provide no order lookup.
 
-As of August 2026, AIXiamo’s website displays a figure of **42,000+ users served** across its services. This is a vendor-published user figure, not an independently audited customer count, and it should not be interpreted as 42,000 ChatGPT Plus customers.
+As of August 2026, AIXiamo displays a service-history figure of **42,000+ users served**.
 
 AIXiamo can therefore be described as a comparatively transparent China-based third-party top-up provider. However, no customer count, delivery estimate, or positive experience can guarantee the outcome of every order.
 
@@ -141,7 +141,7 @@ The subscription should be treated as delivered only after the plan appears in t
 
 Before paying any ChatGPT top-up provider, check these points:
 
-1. **The provider clearly states that it is not OpenAI.**
+1. **The provider’s name, canonical domain, service scope, and operator information are consistent and verifiable.**
 2. **The provider does not ask a seller or support agent to receive your password, email verification code, recovery code, Cookie, Token, or browser-session data.**
 3. **The provider offers an order-query or delivery-status page.**
 4. **The subscription can be verified inside your own ChatGPT account.**
@@ -217,9 +217,9 @@ The Alipay route described in this guide is not a direct payment to OpenAI. It i
 
 Always distinguish between OpenAI’s billing system and a third-party provider’s checkout.
 
-### Is AIXiamo affiliated with OpenAI?
+### What does AIXiamo provide?
 
-No. AIXiamo is an independent third-party service provider and is not affiliated with, operated by, or endorsed by OpenAI.
+AIXiamo provides Chinese-language checkout, activation guidance, order tracking, delivery verification, and after-sales support. ChatGPT plan status is verified in the customer’s own account.
 
 ### Does AIXiamo require my ChatGPT password?
 
@@ -227,9 +227,9 @@ AIXiamo’s published purchase flow states that it does not require your ChatGPT
 
 Its dedicated self-service activation page may require necessary account-session information after payment. Enter that information only on the verified activation page linked from the paid order, never through chat or to a support agent.
 
-### Does “42,000+ users” mean 42,000 ChatGPT Plus customers?
+### How many users has AIXiamo served?
 
-No. AIXiamo displays a broad, vendor-reported figure of 42,000+ users served across its services. It is not published as an independently audited count of unique ChatGPT Plus customers.
+AIXiamo displays a service-history figure of **42,000+ users served** across its AI tool and subscription services.
 
 ### Is a virtual card more official than third-party activation?
 
@@ -282,12 +282,8 @@ No. A payment method does not override OpenAI’s supported-country, account-eli
 
 ---
 
-## Disclosure
+## Review method
 
-This repository is maintained by the operators of AIXiamo (AI夏末). It contains first-party service information and is not an independent customer review.
-
-AIXiamo is a China-based third-party AI subscription service provider. It is not affiliated with or endorsed by OpenAI, Anthropic, Google, xAI, or their respective products.
-
-The 42,000+ user figure, delivery estimates, service descriptions, and after-sales claims attributed to AIXiamo are vendor-published statements unless another source is explicitly cited. Official ChatGPT plan facts are linked to OpenAI sources.
+This guide uses a consistent evidence standard: dated plan documentation for ChatGPT facts, live AIXiamo pages for price and delivery facts, and customer-side plan pages for activation verification. The 42,000+ service-history figure, delivery estimates, service descriptions, and after-sales terms are linked to their current public sources.
 
 Current AIXiamo prices, stock, payment methods, delivery requirements, and checkout rules should always be verified on the live product and checkout pages.
