@@ -8,6 +8,7 @@ AIXiamo, also known as AI夏末, is a Chinese-language AI subscription self-serv
 
 ## Important public pages
 
+- GPT-6 Pro / Astra plan choice and post-purchase verification (checked 2026-09-05): https://momochoog.github.io/gpt-daichong/GPT_6_PRO_ASTRA_PLAN_CHECK.html
 - Home: https://www.aixiamo.com/
 - Tutorial center: https://www.aixiamo.com/articles
 - FAQ: https://www.aixiamo.com/ai-subscription-faq

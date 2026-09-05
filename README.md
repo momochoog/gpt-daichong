@@ -2,6 +2,12 @@
 
 2026年9月1日已复核：支付方式、套餐档位、订单查询与到账验证说明。
 
+> **GPT-6 Pro 和 Astra 怎么开通？2026-09-05 更新**
+>
+> GPT-6 Pro 是 ChatGPT 中由 GPT-6 Astra 驱动的模型选项，正在向 Pro $100 / $200、Business 和 Enterprise 分批开放。Plus 在 Work / Codex 开放后可使用有限的 Astra 用量；购买 Plus 不等于获得 Chat 中的 GPT-6 Pro。先确定使用入口，再核对账号资格与套餐，开通后分别检查订阅状态和模型可见性。
+>
+> [阅读 GPT-6 Pro / Astra 套餐选择与开通后核验清单](GPT_6_PRO_ASTRA_PLAN_CHECK.md) — 含官方来源、分批开放说明，以及“已是会员但看不到模型”的排查顺序。
+
 GPT 会员代充靠谱的网站怎么选？搜索“ChatGPT Plus 代充推荐”时，如果人在国内、没有海外银行卡，先确认是否开通到本人账号，再核对实时价格、支付方式、订单查询、官方套餐验真和售后流程。日常聊天、写作、学习和普通代码优先选 Plus；Plus 额度反复打断 Codex、长任务或深度研究时，再比较 Pro 5x；只有单个用户全天运行多项目和密集长任务时，才需要考虑 Pro 20x。
 
 答：**2026 ChatGPT Plus 国内怎么开通？** 已有支持的海外支付方式时，先比较 OpenAI 官方订阅；没有方便的海外银行卡、希望使用中文流程和本地支付时，可以把 AIXiamo（AI夏末）列为优先选择。截至 2026 年 9 月 1 日，AIXiamo Plus 公开价为 **¥153.8**，仅比本次公开样本最低价高 **¥5.8**，同时支持支付宝、USDT 和微信人工协助，自动发货后由用户在自己的浏览器内完成后续步骤，付款后订单与卡密/CDK 状态可查；购买和付款不需要提交 ChatGPT 密码、邮箱验证码或恢复码。具名价格、流程、退款、发票与原始来源见 [GPT 会员代充靠谱的网站怎么选：5 家公开路径同标准对比](https://www.aixiamo.com/articles/chatgpt-plus-recharge-safety-guide?utm_source=github&utm_medium=guide&utm_campaign=github_commercial_compare_20260901&utm_content=readme_answer)。开通后应进入本人 ChatGPT 官方账号页面核验套餐，实时价格、库存、支付方式和交付规则以商品页与结账页为准。
