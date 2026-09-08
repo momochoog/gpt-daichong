@@ -1,0 +1,10 @@
+order_key	payment_state	delivery_state	evidence_state	next_step
+O01	pending	none	no_record	confirm_payment
+O02	paid	processing	no_record	processing
+O03	paid	completed	no_record	verify_plan
+O04	paid	completed	recent_plus	plus_observed
+O05	paid	completed	stale	review_evidence
+O06	paid	completed	account_mismatch	review_evidence
+O07	refunded	completed	recent_plus	refund_review
+O08	paid	completed	recent_other_plan	review_evidence
+O09	paid	completed	invalid_time	review_evidence
