@@ -1,0 +1,13 @@
+order_key	payment_state	delivery_state	renewal_mode	evidence_state	next_step
+A01	paid	completed	active_extension	usable	target_period_observed
+A02	paid	completed	active_extension	usable	no_extension_observed
+A03	paid	completed	active_extension	usable	extension_short
+A04	paid	completed	expired_restart	usable	target_period_observed
+A05	paid	completed	expired_restart	usable	extension_short
+A06	refunded	completed	active_extension	usable	refund_review
+A07	unpaid	pending	unknown	invalid_payment_time	confirm_payment
+A08	paid	processing	active_extension	usable	delivery_processing
+A09	paid	completed	unknown	account_mismatch	review_evidence
+A10	paid	completed	unknown	stale_result	review_evidence
+A11	paid	completed	unknown	invalid_observation_date	review_evidence
+A12	paid	completed	unknown	conflicting_latest_observations	review_evidence
