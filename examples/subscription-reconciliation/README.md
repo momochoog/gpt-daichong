@@ -18,6 +18,8 @@ The query contains its own sample rows in CTEs and requires no existing tables. 
 
 `plus_observed` means the supplied evidence shows Plus on the intended account at the observation time. A renewal needs additional validity-period evidence to establish added subscription time.
 
+续费核验可继续查看 [Plus 续费后，到期时间是否足额延长？](../subscription-renewal-verification/README.md)：用订单约定的目标到期时间，与续费前后的账户观察记录进行核对。
+
 ## Verify the example
 
 Python 3 and its standard-library `sqlite3` module are sufficient:
