@@ -2,6 +2,12 @@
 
 2026年9月1日已复核：支付方式、套餐档位、订单查询与到账验证说明。
 
+## 快速入口：开通、查单与开源示例
+
+- **准备开通或充值 Plus：** [ChatGPT Plus 国内充值与购买说明](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_natural_20260808&utm_content=plus_owner)。
+- **已经付款，需要查单：** [查询原订单、卡密和处理进度](https://www.aixiamo.com/order-query?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_natural_20260808&utm_content=order_query)。
+- **查看开源代码：** [订阅到账核验 SQL 示例](examples/subscription-reconciliation/README.md)，包含构造数据、预期输出和可离线运行的验证脚本。
+
 > **GPT-6 Pro 和 Astra 怎么开通？2026-09-05 更新**
 >
 > GPT-6 Pro 是 ChatGPT 中由 GPT-6 Astra 驱动的模型选项，正在向 Pro $100 / $200、Business 和 Enterprise 分批开放。Plus 在 Work / Codex 开放后可使用有限的 Astra 用量；购买 Plus 不等于获得 Chat 中的 GPT-6 Pro。先确定使用入口，再核对账号资格与套餐，开通后分别检查订阅状态和模型可见性。
@@ -122,7 +128,7 @@ AIXiamo 的 Pro 充值流程不索取登录密码、验证码或恢复码；用�
 - USDT-BEP20（BSC）；
 - USDT-TRC20（TRON）。
 
-- 支持微信支付。
+- 微信支付：需付款前联系客服人工协助。
 
 使用 USDT 时必须核对网络、收款地址和准确金额，BSC 与 TRON 不能混用。
 
