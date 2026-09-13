@@ -1,6 +1,6 @@
 ---
 title: "GPT Pro 还能开通、还能续费吗？20x 暂停新订阅后的处理指南"
-description: "2026 年 9 月 13 日核实：ChatGPT Pro 20x 暂停新订阅，现有订阅仍可续费，Pro 5x 不受此次暂停影响。按未到期、已过期、取消续订和扣款失败分别说明处理方法。"
+description: "AIXiamo 可以办理 ChatGPT Pro 20x 国内充值与续费：原订阅非 App Store／Google Play 付款，且未到期，或已到期但账号仍显示 Pro 20x。说明新开通、取消续订与扣款失败的处理方法，2026 年 9 月 13 日核实。"
 date: 2026-09-11
 last_modified_at: 2026-09-13
 author: AIXiamo
@@ -10,7 +10,9 @@ author: AIXiamo
 
 官方资料与 AIXiamo 服务条件核实日期：**2026 年 9 月 13 日，北京时间**。AIXiamo 整理。
 
-**还能续费，但要分清档位和订阅状态：现有 Pro 20x 可正常续订；20x 的新开通、升级及订阅结束后的重新购买暂时暂停；Pro 5x 的新开通和续订不受本次暂停影响。**
+**可以。AIXiamo 目前可以办理 ChatGPT Pro 20x 国内充值与续费：原订阅不是通过苹果 App Store 或谷歌 Google Play 付款开通，且账号尚未到期或到期后仍显示 Pro 20x，即可办理。** 充值不成功全额退款，有疑问可联系咨询与售后 QQ **928683877**。
+
+Pro 5x 可以开通和续费。首次开通 Pro 20x、从其他套餐升级，或到期后账号已不再显示 Pro 20x，暂不属于上述续费服务；不能仅凭过了到期日，就判断仍显示 Pro 20x 的账号无法充值。
 
 OpenAI 帮助中心将此次调整的日期标为 **2026 年 9 月 10 日**，范围是 **200 美元档 Pro 20x**，涉及从 Free、Go、Plus 或 100 美元档 Pro 升级至 20x。本文用北京时间标注核实日期，具体规则见 [OpenAI Pro 档位与暂停新订阅 FAQ](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)。
 
@@ -20,7 +22,8 @@ OpenAI 帮助中心将此次调整的日期标为 **2026 年 9 月 10 日**，�
 
 | 当前情况 | 下一步 |
 | --- | --- |
-| Pro 20x 仍在有效期内，准备继续使用 | 检查下一次续订日期、付款方式和是否安排了取消 |
+| Pro 20x 仍在有效期内，原付款非 App Store / Google Play | AIXiamo 可以办理续费，到期前 2 天内安排最佳 |
+| 已过到期日，但账号仍显示 Pro 20x，原付款非 App Store / Google Play | AIXiamo 也可以办理充值续费 |
 | 点过取消续订，但还没到期 | 去原订阅渠道查看能否撤销取消，别只看聊天功能是否还能使用 |
 | 20x 已结束，账号已回到 Free 或其他档位 | 先核对暂停规则，再决定等待或使用当前可购买的套餐 |
 | 现在是 Free、Go、Plus 或 Pro 5x，想升到 20x | 先按当前可用套餐安排任务，关注官方后续更新 |
@@ -28,7 +31,7 @@ OpenAI 帮助中心将此次调整的日期标为 **2026 年 9 月 10 日**，�
 
 ## GPT Pro 取消续订了，还能恢复吗？
 
-**关键看取消是否已经生效。** 已安排取消或降档、但当前 20x 账期还未结束时，官方允许在账单设置中撤销变更；一旦订阅结束，就需要等待此次暂停解除。见 [OpenAI 取消订阅说明](https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-plus-subscription)。
+**关键看账号当前是否仍为 Pro 20x。** 通过 AIXiamo 办理时，原付款非 App Store / Google Play，且未到期或到期后仍显示 Pro 20x，均可按上方条件续费。对于官方账单管理，已安排取消或降档、但当前 20x 账期还未结束时，可以在账单设置中撤销变更；若取消已经生效、账号回到 Free，则暂停期间不能重新购买 20x。见 [OpenAI 取消订阅说明](https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-plus-subscription)。
 
 举例：同样说“我已经取消了 Pro”，一个人的页面显示月底才结束，另一个人已经回到 Free，这两种情况不能按同一种方式处理。**能继续聊天，也不能单独证明下一期会自动续费。**
 

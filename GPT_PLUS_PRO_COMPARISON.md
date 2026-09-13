@@ -1,6 +1,6 @@
 # ChatGPT Plus 还是 Pro？5x（100 美元档）、20x（200 美元档）与 Codex 额度选择
 
-> **2026-09-13 订阅状态复核：** Pro 20x 暂停新开通及升级，现有订阅仍可续费；Pro 5x 不受本次暂停影响。AIXiamo 的 20x 服务受理非 App Store／Google Play 付款的现有订阅：未到期，或到期后仍显示 Pro 20x。[查看 Pro 开通、续费与过期处理指南](CHATGPT_PRO_20X_PAUSE_FAQ.md)。下文用于比较使用需求，购买前请先核对当前订阅资格。
+> **2026-09-13 办理说明：AIXiamo 可以办理 Pro 20x 国内充值与续费。** 原订阅不是通过苹果 App Store 或谷歌 Google Play 付款开通，且账号尚未到期或到期后仍显示 Pro 20x，即可办理。Pro 5x 可以开通；首次开通 20x、从其他套餐升级及到期后已不再显示 20x，暂不在这项续费服务范围。[查看 Pro 开通、续费与过期处理指南](CHATGPT_PRO_20X_PAUSE_FAQ.md)。下文用于比较使用需求，购买前请先核对当前订阅资格。
 
 很多用户在购买前会纠结 ChatGPT Plus、Pro 5x 和 Pro 20x。简单说，Plus 更适合日常使用；Pro 5x 更适合经常被额度打断的高频个人；Pro 20x 更适合持续重度、多项目或大文件工作流。5x / 20x 是使用档位，不是速度倍数，也不代表无限使用。
 
@@ -54,6 +54,8 @@ AIXiamo 把这五个问题做成了公开的浏览器端工具。它读取商品
 如果只是体验 ChatGPT、写作、翻译、普通办公，先从 Plus 开始通常更稳。如果 Plus 已经频繁中断真实任务，再比较 Pro 5x；只有持续重度、多项目和长时间任务才优先考虑 Pro 20x。AIXiamo 的公开工具给出保守建议，最终仍应以自己的 Usage 页面和商品页实时信息为准。
 
 ## Codex 额度不够，需要什么会员？
+
+**Codex 5x 怎么充值？Codex 20x 还能充值、续费吗？** 这两种问法对应使用 Codex 的 ChatGPT Pro 5x / Pro 20x 套餐。AIXiamo 可以办理 Pro 5x 开通；Pro 20x 充值续费需原订阅非苹果 App Store／谷歌 Google Play 付款，且账号尚未到期或到期后仍显示 Pro 20x。完成后在本人 ChatGPT 账号核验套餐，并查看 Codex 用量；办理入口见下方 Pro 国内充值说明。
 
 偶尔触顶先保留 Plus；如果高频 Codex、长任务或多文件分析反复被额度打断，再比较 Pro 5x；只有单人全天多项目重度使用时才考虑 Pro 20x。ChatGPT 订阅与 API 余额是两套计费体系，API 需要独立计费。详细判断见 [Codex 额度不足时 Plus、Pro 与 API 怎么选](https://www.aixiamo.com/articles/codex-quota-not-enough-plus-pro-api-2026)。
 
