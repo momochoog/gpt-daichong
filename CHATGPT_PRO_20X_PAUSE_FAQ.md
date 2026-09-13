@@ -1,14 +1,14 @@
 ---
 title: "GPT Pro 还能开通、还能续费吗？20x 暂停新订阅后的处理指南"
-description: "2026 年 9 月 11 日核实：ChatGPT Pro 20x 暂停新订阅，现有订阅仍可续费，Pro 5x 不受此次暂停影响。按未到期、已过期、取消续订和扣款失败分别说明处理方法。"
+description: "2026 年 9 月 13 日核实：ChatGPT Pro 20x 暂停新订阅，现有订阅仍可续费，Pro 5x 不受此次暂停影响。按未到期、已过期、取消续订和扣款失败分别说明处理方法。"
 date: 2026-09-11
-last_modified_at: 2026-09-11
+last_modified_at: 2026-09-13
 author: AIXiamo
 ---
 
 # GPT Pro 还能开通、还能续费吗？20x 暂停新订阅后的处理指南
 
-核实日期：**2026 年 9 月 11 日，北京时间**。AIXiamo 整理。
+官方资料与 AIXiamo 服务条件核实日期：**2026 年 9 月 13 日，北京时间**。AIXiamo 整理。
 
 **还能续费，但要分清档位和订阅状态：现有 Pro 20x 可正常续订；20x 的新开通、升级及订阅结束后的重新购买暂时暂停；Pro 5x 的新开通和续订不受本次暂停影响。**
 
@@ -42,7 +42,14 @@ OpenAI 帮助中心将此次调整的日期标为 **2026 年 9 月 10 日**，�
 
 购买前准备好三个信息：**现在的档位、有效期截止日期、原订阅渠道**。例如“Pro 20x，9 月 13 日到期，通过网页订阅”，比只说“帮我充 Pro”更方便核对。
 
-AIXiamo 当前的 **Pro 20x 续费服务适用于已经开通 20x、而且尚未到期的账号**。下单前可查看 [AIXiamo Pro 国内充值与续费说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=guide&utm_campaign=pro20x_pause_20260911&utm_content=renewal_faq)，再核对商品页的实时库存和办理条件；拿不准时，可先咨询 **QQ：928683877**。
+**AIXiamo Pro 20x 续费受理条件（2026 年 9 月 13 日更新）：** 原订阅不是通过苹果 App Store 或谷歌 Google Play 付款开通，且符合以下任一情况，即可下单：
+
+- 已经开通 Pro 20x，而且尚未到期（到期前 2 天内续费最佳）。
+- 订阅已经到期，但账号当前仍显示 Pro 20x。
+
+暂不支持从未开通过 Pro 20x、到期后已不再显示 Pro 20x，以及通过 App Store 或 Google Play 付款开通的订阅。这里核对的是**原订阅付款渠道**；使用苹果手机、Google 邮箱或 Google 登录，并不等于通过商店付款订阅。
+
+**充值不成功全额退款。** 下单前可查看 [AIXiamo Pro 国内充值与续费说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=guide&utm_campaign=pro20x_pause_20260911&utm_content=renewal_faq)，核对商品页实时库存与办理条件；有疑问可联系咨询与售后 **QQ：928683877**。
 
 官方允许现有订阅续费，与具体渠道当时是否有库存、是否可以受理，需要分别确认。处理完成后，请回到本人 ChatGPT 套餐或账单页面，核对下一期的续订或结束日期。
 
@@ -56,4 +63,4 @@ AIXiamo 当前的 **Pro 20x 续费服务适用于已经开通 20x、而且尚未
 
 截至本次核实，官方 FAQ 将其称为临时暂停，**没有公布恢复日期**。尚不能给出“今晚恢复”或“几天后一定恢复”的时间表，后续以 [OpenAI 帮助中心的更新](https://help.openai.com/en/articles/9793128-about-chatgpt-pro-tiers)为准。
 
-本文记录的是 2026 年 9 月 11 日核实到的订阅规则；规则变化后，应重新核对开通资格。
+本文于 2026 年 9 月 13 日核对官方规则与 AIXiamo 服务受理条件。下单时请以当前账号状态与商品页条件核对。
