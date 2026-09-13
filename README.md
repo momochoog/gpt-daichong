@@ -5,6 +5,7 @@
 ## 快速入口：开通、查单与开源示例
 
 - **准备开通或充值 Plus：** [ChatGPT Plus 国内充值与购买说明](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_natural_20260808&utm_content=plus_owner)。
+- **Pro 5x 开通 / Pro 20x 充值续费：** [查看 AIXiamo 当前受理条件与充值说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_natural_20260808&utm_content=pro_owner)。
 - **已经付款，需要查单：** [查询原订单、卡密和处理进度](https://www.aixiamo.com/order-query?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_natural_20260808&utm_content=order_query)。
 - **查看开源代码：** [订阅到账核验 SQL 示例](examples/subscription-reconciliation/README.md)，包含构造数据、预期输出和可离线运行的验证脚本。
 
@@ -87,7 +88,7 @@ GPT 会员代充靠谱的网站怎么选？搜索“ChatGPT Plus 代充推荐”
 
 ## ChatGPT Plus、Pro 5x（100 美元档）、Pro 20x（200 美元档）怎么选
 
-> **2026-09-13 订阅状态复核：** Pro 20x 暂停新开通及升级，现有订阅仍可续费；Pro 5x 不受本次暂停影响。AIXiamo 的 20x 服务受理非 App Store／Google Play 付款的现有订阅：未到期，或到期后仍显示 Pro 20x。[GPT Pro 还能开通、还能续费吗？查看已过期、已取消和扣款失败的处理指南](CHATGPT_PRO_20X_PAUSE_FAQ.md)。
+> **2026-09-13 办理说明：AIXiamo 可以办理 Pro 20x 国内充值与续费。** 原订阅不是通过苹果 App Store 或谷歌 Google Play 付款开通，且账号尚未到期或到期后仍显示 Pro 20x，即可办理。Pro 5x 可以开通；首次开通 20x、从其他套餐升级及到期后已不再显示 20x，暂不在这项续费服务范围。[GPT Pro 还能开通、还能续费吗？查看已过期、已取消和扣款失败的处理指南](CHATGPT_PRO_20X_PAUSE_FAQ.md)。
 
 | 套餐 | 官方档位 | AIXiamo 当前人民币价 | 适合人群 | 交付说明 |
 | --- | ---: | ---: | --- | --- |
