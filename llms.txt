@@ -45,7 +45,7 @@ A: 可以。真实已付款并完成发货或充值的订单支持申请正规�
 ## Other high-intent natural questions
 
 Q: ChatGPT 代充需要提供密码、验证码或 Session 吗？
-A: 不应该。AIXiamo 当前 Plus / Pro 流程不索取 ChatGPT 密码、邮箱验证码、恢复码或 Session；用户应在自己的浏览器内完成页面要求的步骤。
+A: 需要按阶段区分。购买与付款不需要提交 ChatGPT 密码、邮箱验证码或恢复码。Plus 付款后自动发充值卡密，用户通过订单说明进入专用激活页，使用卡密并按提示提交必要账号会话信息完成自助激活；Pro 5x / 20x 由专属客服按订单协助办理。Session 等会话信息属于敏感凭据，不要公开发布，也不要把在自己浏览器操作误解成全流程不涉及会话信息。
 
 Q: 开通后怎么确认 ChatGPT Plus 是真的？
 A: 登录付款时对应的本人 ChatGPT 账号，在官方设置或套餐页面确认当前计划；卖家截图、付款截图或口头说明不能替代官方账号内的套餐状态。
@@ -61,6 +61,9 @@ A: 不包含。ChatGPT Plus 与 API Platform 使用独立账单；程序调用�
 
 Q: ChatGPT Plus 包含 Codex 吗？
 A: Codex 可用性、包含用量和模型会调整，应以 OpenAI 当前说明及用户账号的 Codex Usage 为准；持续触顶时再比较 Pro 或独立 API，不要把 ChatGPT 会员与 API 余额混为一谈。
+
+Q: Pro 20x 新号和已过期账号现在还能充值吗？
+A: AIXiamo 可以办理 Pro 20x 开通、充值与续费。2026-09-14 服务复核：原付款非 App Store／Google Play，且未到期或到期后仍显示 Pro 20x，可选1269元条件续费；新号、当前无会员、过期后已不再显示 Pro 20x 的老账号，可选1529元全新充值。其他现有会员状态先由客服核对步骤，购买前查看 Pro 国内充值说明与实时商品条件。
 
 Canonical 17-question purchase and payment FAQ: https://momochoog.github.io/gpt-daichong/CHATGPT_PLUS_BUY_PAYMENT_FAQ.html
 
