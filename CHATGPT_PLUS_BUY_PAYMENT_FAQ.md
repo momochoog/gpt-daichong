@@ -122,13 +122,13 @@ AIXiamo 当前 Plus 流程不索取 ChatGPT 登录密码、邮箱验证码或恢
 
 官方网页订阅通常按月自动续费，除非用户取消。已经有 Plus 时，先查看当前订阅由网页、Apple App Store 还是 Google Play 管理，再确认续费日期和付款方式，避免在多个平台重复订阅。
 
-使用第三方充值前，也应先核对当前套餐状态和到期时间；不确定是否能够继续充值时，先联系售后确认，不要直接重复购买。
+通过 AIXiamo 续费或再次充值前，先核对当前套餐状态、到期时间与原订阅渠道，并对照 [Plus 国内购买与充值页](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=guide&utm_campaign=plus_buy_payment_faq_20260826&utm_content=faq_owner)的实时商品条件；不确定时先联系客服确认。符合条件并付款后，Plus 会自动发卡密，仍需按订单中的教程自助激活，再到本人 ChatGPT 账号核验套餐。再次付款不等于原订阅已经续期，也不代表剩余天数自动叠加。
 
 ## 11. 付款后怎么确认 ChatGPT Plus 已到账？
 
-按下面顺序核验：
+**以本人 ChatGPT 账号中的套餐状态核验。** AIXiamo Plus 付款后自动发卡密，用户仍需按订单教程完成自助激活；付款成功和激活完成是两个步骤。按下面顺序核验：
 
-1. 在购买平台查询订单或处理状态；
+1. 通过 [AIXiamo 订单查询](https://www.aixiamo.com/order-query)找回原订单、卡密和处理状态；
 2. 确认登录的是付款时对应的 ChatGPT 账号和同一种登录方式；
 3. 打开 ChatGPT 的套餐、Account 或 Billing 页面查看当前计划；
 4. 移动端没有同步时，可刷新、重新登录，或使用应用内的恢复购买功能；
