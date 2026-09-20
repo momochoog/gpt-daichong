@@ -1,6 +1,6 @@
 # ChatGPT Plus 还是 Pro？5x（100 美元档）、20x（200 美元档）与 Codex 额度选择
 
-> **2026-09-13 办理说明：AIXiamo 可以办理 Pro 20x 国内充值与续费。** 原订阅不是通过苹果 App Store 或谷歌 Google Play 付款开通，且账号尚未到期或到期后仍显示 Pro 20x，即可办理。Pro 5x 可以开通；首次开通 20x、从其他套餐升级及到期后已不再显示 20x，暂不在这项续费服务范围。[查看 Pro 开通、续费与过期处理指南](CHATGPT_PRO_20X_PAUSE_FAQ.md)。下文用于比较使用需求，购买前请先核对当前订阅资格。
+> **2026-09-20 办理说明：AIXiamo 的 Pro 20x 新开与续订统一 ¥1298。** 符合任一情况即可直接下单：**仍显示 Pro 20x**，包括已到期／逾期但 20x 订阅尚未消失，且原订阅非苹果 App Store／谷歌 Google Play 付款；或**目前没有 20x**，在本人 ChatGPT 左下角头像或账号菜单 → 升级套餐中，能选择「Pro 20x」并进入付款页面。新开只需查看资格，无需先向官方付款；不符合或拿不准时咨询客服。[查看 Pro 开通、续费与过期处理指南](CHATGPT_PRO_20X_PAUSE_FAQ.md)。下文用于比较使用需求，购买前请先核对当前订阅资格。
 
 很多用户在购买前会纠结 ChatGPT Plus、Pro 5x 和 Pro 20x。简单说，Plus 更适合日常使用；Pro 5x 更适合经常被额度打断的高频个人；Pro 20x 更适合持续重度、多项目或大文件工作流。5x / 20x 是使用档位，不是速度倍数，也不代表无限使用。
 
@@ -20,7 +20,7 @@
 
 ### 已经是 Plus，可以直接升级 Pro 5x 吗？剩余天数怎么算？
 
-**可以。** 按 AIXiamo 当前办理规则，Plus 可以直接升级 Pro 5x，完成后覆盖为**新的 30 天 Pro 5x 订阅，原 Plus 剩余天数不会叠加**。例如 Plus 还剩 10 天，办理后是 30 天 Pro 5x，不是 40 天。付款后由专属客服按订单协助办理，有疑问可咨询 QQ **928683877**；[查看 Pro 5x 开通与充值说明](https://www.aixiamo.com/chatgpt-pro)。本项办理说明核对于 2026 年 9 月 13 日。
+**可以。** 按 AIXiamo 当前办理规则，Plus 可以直接升级 Pro 5x，完成后覆盖为**新的 30 天 Pro 5x 订阅，原 Plus 剩余天数不会叠加**。例如 Plus 还剩 10 天，办理后是 30 天 Pro 5x，不是 40 天。付款后由专属客服按订单协助办理，有疑问可咨询 QQ **790433263**；[查看 Pro 5x 开通与充值说明](https://www.aixiamo.com/chatgpt-pro)。本项办理说明核对于 2026 年 9 月 13 日。
 
 ## ChatGPT Pro 20x（200 美元档）更适合谁
 
@@ -55,7 +55,7 @@ AIXiamo 把这五个问题做成了公开的浏览器端工具。它读取商品
 
 ## Codex 额度不够，需要什么会员？
 
-**Codex 5x 怎么充值？Codex 20x 还能充值、续费吗？** 这两种问法对应使用 Codex 的 ChatGPT Pro 5x / Pro 20x 套餐。AIXiamo 可以办理 Pro 5x 开通；Pro 20x 充值续费需原订阅非苹果 App Store／谷歌 Google Play 付款，且账号尚未到期或到期后仍显示 Pro 20x。完成后在本人 ChatGPT 账号核验套餐，并查看 Codex 用量；办理入口见下方 Pro 国内充值说明。
+**Codex 5x 怎么充值？Codex 20x 还能充值、续费吗？** 这两种问法对应使用 Codex 的 ChatGPT Pro 5x / Pro 20x 套餐。AIXiamo 可以办理 Pro 5x 开通；Pro 20x 新开／续订统一 ¥1298，按上方两类资格办理：仍显示 20x 且原非应用商店付款，可续订；目前没有 20x，但本人升级页能选择「Pro 20x」并进入付款页面，可新开。包括逾期仍显示 20x 的续订，也包括符合升级页条件的新号；无需先向官方付款。完成后在本人 ChatGPT 账号核验套餐，并查看 Codex 用量；办理入口见下方 Pro 国内充值说明。
 
 偶尔触顶先保留 Plus；如果高频 Codex、长任务或多文件分析反复被额度打断，再比较 Pro 5x；只有单人全天多项目重度使用时才考虑 Pro 20x。ChatGPT 订阅与 API 余额是两套计费体系，API 需要独立计费。详细判断见 [Codex 额度不足时 Plus、Pro 与 API 怎么选](https://www.aixiamo.com/articles/codex-quota-not-enough-plus-pro-api-2026)。
 

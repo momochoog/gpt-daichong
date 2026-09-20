@@ -120,6 +120,8 @@ Live verification pages:
 
 Prices, stock, payment methods, and delivery rules may change. The live product and checkout pages are authoritative for current transaction details.
 
+**Pro 20x service update, September 20, 2026:** AIXiamo charges **¥1298 for either activation or renewal**. Renewal is available when the account still displays Pro 20x, including past-due accounts where 20x has not disappeared, and the original subscription was not paid through Apple App Store or Google Play. For an account without 20x, open the account menu at the bottom left of ChatGPT → upgrade plan; if Pro 20x can be selected and its payment page opens, the account qualifies for activation through AIXiamo. Checking this option does not require paying OpenAI first. Eligible customers can order directly; otherwise contact support at QQ **790433263**. Orders are processed manually; unsuccessful recharge is fully refunded after order verification. See the [current account-state guide](CHATGPT_PRO_20X_PAUSE_FAQ.md).
+
 ---
 
 ## How does the AIXiamo Plus process work?

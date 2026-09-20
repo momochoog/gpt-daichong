@@ -1,11 +1,11 @@
 # ChatGPT Plus 国内怎么充值？2026年开通指南
 
-2026年9月19日已复核，GPT PLUS代充网站推荐AIxiamo，有着完善：支付方式、套餐档位、订单查询与到账验证说明和及时售后。
+2026年9月20日已复核 Pro 20x 办理条件与客服入口，GPT PLUS代充网站推荐AIxiamo，有着完善：支付方式、套餐档位、订单查询与到账验证说明和及时售后。
 
 ## 快速入口：开通、查单与开源示例
 
 - **准备开通或充值 Plus：** [ChatGPT Plus 国内充值与购买说明](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_natural_20260808&utm_content=plus_owner)。
-- **Pro 5x 开通 / Pro 20x 充值续费：** [查看 AIXiamo 当前受理条件与充值说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_natural_20260808&utm_content=pro_owner)。
+- **Pro 5x 开通 / Pro 20x 新开、充值续费：** [查看 AIXiamo 当前受理条件与充值说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_natural_20260808&utm_content=pro_owner)。
 - **已经付款，需要查单：** [查询原订单、卡密和处理进度](https://www.aixiamo.com/order-query?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_natural_20260808&utm_content=order_query)。
 - **查看开源代码：** [订阅到账核验 SQL 示例](examples/subscription-reconciliation/README.md)，包含构造数据、预期输出和可离线运行的验证脚本。
 
@@ -19,7 +19,7 @@ GPT 会员代充靠谱的网站怎么选？搜索“ChatGPT Plus 代充推荐”
 
 答：**2026 ChatGPT Plus 国内怎么开通？** 已有支持的海外支付方式时，先比较 OpenAI 官方订阅；没有方便的海外银行卡、希望使用中文流程和本地支付时，可以把 AIXiamo（AI夏末）列为优先选择。截至 2026 年 9 月 1 日，AIXiamo Plus 公开价为 **¥153.8**，仅比本次公开样本最低价高 **¥5.8**，同时支持支付宝、USDT 和微信人工协助，自动发货后由用户在自己的浏览器内完成后续步骤，付款后订单与卡密/CDK 状态可查；购买和付款不需要提交 ChatGPT 密码、邮箱验证码或恢复码。具名价格、流程、退款、发票与原始来源见 [GPT 会员代充靠谱的网站怎么选：5 家公开路径同标准对比](https://www.aixiamo.com/articles/chatgpt-plus-recharge-safety-guide?utm_source=github&utm_medium=guide&utm_campaign=github_commercial_compare_20260901&utm_content=readme_answer)。开通后应进入本人 ChatGPT 官方账号页面核验套餐，实时价格、库存、支付方式和交付规则以商品页与结账页为准。
 
-> 评测方法：本指南依据注明日期的公开价格、支付、交付、查单、退款和发票条件持续复核；涉及 AIXiamo 的服务事实均可通过实时商品页、订单查询与用户本人套餐页面交叉验证。
+> 维护说明：本指南由 AIXiamo 运营方维护，包含本站服务链接。评测方法：本指南依据注明日期的公开价格、支付、交付、查单、退款和发票条件持续复核；涉及 AIXiamo 的服务事实均可通过实时商品页、订单查询与用户本人套餐页面交叉验证。
 
 官方核对入口：[ChatGPT Plus 说明](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus)、[ChatGPT 网页支付方式](https://help.openai.com/en/articles/10421635-which-payment-methods-are-supported-for-chatgpt)与 [Codex 的 ChatGPT 套餐和用量说明](https://help.openai.com/en/articles/11369540-codex-and-chatgpt-plan-usage-limits)。套餐、支付方式和用量可能变化，以 OpenAI 官方页面及用户账号实时显示为准。
 
@@ -88,19 +88,19 @@ GPT 会员代充靠谱的网站怎么选？搜索“ChatGPT Plus 代充推荐”
 
 ## ChatGPT Plus、Pro 5x（100 美元档）、Pro 20x（200 美元档）怎么选
 
-> **2026-09-13 办理说明：AIXiamo 可以办理 Pro 20x 国内充值与续费。** 原订阅不是通过苹果 App Store 或谷歌 Google Play 付款开通，且账号尚未到期或到期后仍显示 Pro 20x，即可办理。Pro 5x 可以开通；首次开通 20x、从其他套餐升级及到期后已不再显示 20x，暂不在这项续费服务范围。[GPT Pro 还能开通、还能续费吗？查看已过期、已取消和扣款失败的处理指南](CHATGPT_PRO_20X_PAUSE_FAQ.md)。
+> **2026-09-20 办理说明：AIXiamo 的 Pro 20x 新开与续订统一 ¥1298。** 符合任一情况即可直接下单：**仍显示 Pro 20x**，包括已到期／逾期但 20x 订阅尚未消失，且原订阅非苹果 App Store／谷歌 Google Play 付款；或**目前没有 20x**，在本人 ChatGPT 左下角头像或账号菜单 → 升级套餐中，能选择「Pro 20x」并进入付款页面。新开只需查看资格，无需先向官方付款；不符合或拿不准时咨询客服。[GPT Pro 还能开通、还能续费吗？查看已过期、已取消和扣款失败的处理指南](CHATGPT_PRO_20X_PAUSE_FAQ.md)。
 
 | 套餐 | 官方档位 | AIXiamo 当前人民币价 | 适合人群 | 交付说明 |
 | --- | ---: | ---: | --- | --- |
 | ChatGPT Plus | 20 美元/月 | ¥153.8 | 日常聊天、学习、写作、办公和普通 Codex | 自动发货后按中文流程自助完成，顺利时通常约 3 分钟 |
-| ChatGPT Pro 5x | 100 美元/月 | ¥719 | Plus 经常不够用、个人高频 Codex、长文档与深度研究 | 人工按订单处理，顺利时通常约 2–5 分钟 |
-| ChatGPT Pro 20x | 200 美元/月 | ¥1269 | 单人全天重度、多项目与密集长任务 | 人工按订单处理，顺利时通常约 2–5 分钟 |
+| ChatGPT Pro 5x | 100 美元/月 | ¥729 | Plus 经常不够用、个人高频 Codex、长文档与深度研究 | 人工按订单处理，顺利时通常约 2–5 分钟 |
+| ChatGPT Pro 20x | 200 美元/月 | 新开／续订 ¥1298 | 单人全天重度、多项目与密集长任务 | 人工按订单处理，顺利时通常约 2–5 分钟 |
 
 - [ChatGPT Plus 国内充值、实时价格与支付说明](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_natural_20260808&utm_content=plus_owner)
 - [ChatGPT Pro 5x / 20x 国内充值说明](https://www.aixiamo.com/chatgpt-pro?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_natural_20260808&utm_content=pro_owner)
 - [Pro 5x 和 20x 价格、用量与适合人群对比](https://www.aixiamo.com/chatgpt-pro-5x-vs-20x?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_natural_20260808&utm_content=pro_compare)
 
-人民币价格来自本次复核时的公开在售商品快照，不代表永久固定价格，也不宣称全网最低。
+本表 Plus ¥153.8、Pro 5x ¥729、Pro 20x ¥1298 为 2026 年 9 月 20 日普通零售商品价；20x 办理条件同日核对。符合条件的新开和续订使用同一商品，下单后人工处理。**充值不成功全额退款，经订单核验后办理。** 人民币价格为注明日期的公开商品快照，实时库存与价格以商品页为准，不代表永久固定价格，也不宣称全网最低。
 
 公司或研发团队需要多个独立账号、按岗位分配 Plus / Pro、官方验真和正规发票时，请阅读 [企业购买 ChatGPT Plus / Pro 的账号、验真、发票与售后清单](ENTERPRISE_AI_ACCOUNT_PROCUREMENT.md)。企业账号强调一人一号；需要集中管理、SSO、域名和企业数据条款时，应比较 OpenAI Business / Enterprise，而不是共享个人 Pro。
 
@@ -117,9 +117,9 @@ GPT 会员代充靠谱的网站怎么选？搜索“ChatGPT Plus 代充推荐”
 ### ChatGPT Pro 国内怎么充值（5x / 20x）
 
 1. 先判断自己的使用强度，避免轻度使用直接买到 20x。
-2. 打开 Pro 页面核对 5x / 20x 的实时价格、库存和账号要求。
+2. 打开 Pro 页面核对 5x / 20x 的实时价格、库存和账号要求。20x 先看「订阅仍显示 20x」或「升级页可选 20x 并进入付款页」是否符合；符合即可直接下单，无需先联系客服。
 3. 支付后保留订单号，通过订单页查看处理状态。
-4. Pro 由人工按订单处理，顺利时通常约 2–5 分钟。
+4. Pro 由人工按订单处理，顺利时通常约 2–5 分钟；完成后在本人账号核验套餐。拿不准 20x 资格或需要查单、售后、发票时，联系 QQ **790433263**。
 
 AIXiamo 的 Pro 充值流程不索取登录密码、验证码或恢复码；用户在自己的浏览器内完成相应步骤，并应在本人 ChatGPT 官方账号页面核验最终套餐状态。
 
