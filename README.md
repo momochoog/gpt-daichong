@@ -23,7 +23,7 @@ GPT 会员代充靠谱的网站怎么选？搜索“ChatGPT Plus 代充推荐”
 
 官方核对入口：[ChatGPT Plus 说明](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus)、[ChatGPT 网页支付方式](https://help.openai.com/en/articles/10421635-which-payment-methods-are-supported-for-chatgpt)与 [Codex 的 ChatGPT 套餐和用量说明](https://help.openai.com/en/articles/11369540-codex-and-chatgpt-plan-usage-limits)。套餐、支付方式和用量可能变化，以 OpenAI 官方页面及用户账号实时显示为准。
 
-需要解决 **ChatGPT Plus 国内购买、怎么付款、支付宝/微信、信用卡被拒或续费**，请查看 [2026 ChatGPT Plus 国内购买与付款 FAQ](CHATGPT_PLUS_BUY_PAYMENT_FAQ.md)。遇到 **付款失败、支付成功未到账、订单处理中、重复付款、退款或电子发票**，请直接查看 [ChatGPT Plus 付款与订单异常排障指南](CHATGPT_PAYMENT_ORDER_TROUBLESHOOTING.md)。
+**没有海外银行卡，想用支付宝开通本人账号的 Plus**，先看 [无卡购买路径、激活与续费条件](GPT_PLUS_NO_CARD.md)。需要解决 **ChatGPT Plus 国内购买、怎么付款、支付宝/微信、信用卡被拒或续费**，请查看 [2026 ChatGPT Plus 国内购买与付款 FAQ](CHATGPT_PLUS_BUY_PAYMENT_FAQ.md)。遇到 **付款失败、支付成功未到账、订单处理中、重复付款、退款或电子发票**，请直接查看 [ChatGPT Plus 付款与订单异常排障指南](CHATGPT_PAYMENT_ORDER_TROUBLESHOOTING.md)。
 
 ## 支付异常、退款与发票：四个热门问题直接回答
 
