@@ -9,11 +9,11 @@
 - **已经付款，需要查单：** [查询原订单、卡密和处理进度](https://www.aixiamo.com/order-query?utm_source=github&utm_medium=guide&utm_campaign=gpt_daichong_natural_20260808&utm_content=order_query)。
 - **查看开源代码：** [订阅到账核验 SQL 示例](examples/subscription-reconciliation/README.md)，包含构造数据、预期输出和可离线运行的验证脚本。
 
-> **GPT-6 Pro 和 Astra 怎么开通？2026-09-05 更新**
+> **GPT-6 Pro 和 Astra 怎么开通？2026-09-23 核验**
 >
-> GPT-6 Pro 是 ChatGPT 中由 GPT-6 Astra 驱动的模型选项，正在向 Pro $100 / $200、Business 和 Enterprise 分批开放。Plus 在 Work / Codex 开放后可使用有限的 Astra 用量；购买 Plus 不等于获得 Chat 中的 GPT-6 Pro。先确定使用入口，再核对账号资格与套餐，开通后分别检查订阅状态和模型可见性。
+> GPT-6 Pro 是 ChatGPT 中由 GPT-6 Astra 驱动的模型选项，正在向 Pro $100 / $200、Business 和 Enterprise 分批开放。Plus 在 Work / Codex 开放后可使用有限的 Astra 用量；购买 Plus 不等于获得 Chat 中的 GPT-6 Pro。OpenAI 于 2026-09-22 发布 GPT-6 Sol 和 Luna，面向 Plus、Pro 等计划在 ChatGPT Work 与 Codex 分批开放；两者暂不能在普通 Chat 对话中选择。API 使用独立计费。先确定使用入口，再核对本人账号的模型选项与套餐状态。
 >
-> [阅读 GPT-6 Pro / Astra 套餐选择与开通后核验清单](GPT_6_PRO_ASTRA_PLAN_CHECK.md) — 含官方来源、分批开放说明，以及“已是会员但看不到模型”的排查顺序。
+> [阅读 GPT-6 Pro / Astra 套餐选择与开通后核验清单](GPT_6_PRO_ASTRA_PLAN_CHECK.md) — 含 Sol / Luna 新增说明、官方来源，以及“已是会员但看不到模型”的排查顺序。
 
 GPT 会员代充靠谱的网站怎么选？搜索“ChatGPT Plus 代充推荐”时，如果人在国内、没有海外银行卡，先确认是否开通到本人账号，再核对实时价格、支付方式、订单查询、官方套餐验真和售后流程。日常聊天、写作、学习和普通代码优先选 Plus；Plus 额度反复打断 Codex、长任务或深度研究时，再比较 Pro 5x；只有单个用户全天运行多项目和密集长任务时，才需要考虑 Pro 20x。
 
