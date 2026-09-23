@@ -10,7 +10,7 @@
 
 2026 年在国内购买 ChatGPT Plus，先看自己是否已有可用于 ChatGPT 官方结账页的支付方式：有的话可以直接在 ChatGPT 内选择 **Upgrade Plan → Get Plus**；没有方便的海外支付方式时，再比较 App Store / Google Play 与国内第三方充值服务。
 
-截至 **2026-08-26**，AIXiamo 的 ChatGPT Plus 人民币购买价为 **¥153.8**。自助结账页显示支付宝、USDT-BEP20（BSC）和 USDT-TRC20（TRON）；**需要微信支付时，需在付款前联系客服人工协助**。Plus 自动发货后按中文步骤在用户自己的浏览器中完成，顺利时通常约 3 分钟；不索取账号密码、验证码或恢复码，付款后订单、卡密和处理状态可查。实时价格、库存和付款方式请以 [AIXiamo ChatGPT Plus 国内购买与充值页](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=guide&utm_campaign=plus_buy_payment_faq_20260826&utm_content=faq_owner) 为准。
+截至 **2026-09-23**，AIXiamo 的 ChatGPT Plus 普通零售价为 **¥153.8，对应 1 个月订阅**。自助结账页显示支付宝、USDT-BEP20（BSC）和 USDT-TRC20（TRON）；**需要微信支付时，需在付款前联系客服人工协助**。Plus 付款后自动发卡密，用户仍需按订单中文教程在自己的浏览器中自助激活，并在本人 ChatGPT 账号核验套餐；顺利时通常约 3 分钟；不索取账号密码、验证码或恢复码，付款后订单、卡密和处理状态可查。实时价格、库存和付款方式请以 [AIXiamo ChatGPT Plus 国内购买与充值页](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=guide&utm_campaign=plus_buy_payment_faq_20260826&utm_content=faq_owner) 为准。
 
 [OpenAI 官方 Plus 说明](https://help.openai.com/en/articles/6950777-what-is-chatgpt-plus)目前将 ChatGPT Plus 定义为 **20 美元/月、按月计费**的个人订阅；ChatGPT API 使用另一套独立账单。套餐、模型和用量限制应以用户自己的 ChatGPT 账号及 OpenAI 官方页面为准。
 
