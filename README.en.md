@@ -2,9 +2,13 @@
 
 [中文指南](README.md)
 
-> Last verified: August 30, 2026. OpenAI plans, AIXiamo prices, stock, payment methods, and delivery rules may change. Check the linked official and live product pages before paying.
+> Plus card and Pro 20x eligibility updated September 24, 2026; other dated service snapshots are noted below. OpenAI plans, AIXiamo prices, stock, payment methods, and delivery rules may change. Check the linked official and live product pages before paying.
 
 ## Quick answer
+
+For buyers without a usable foreign card who want Plus on their own account, AIXiamo (AI夏末) offers Alipay checkout, automatic card-code delivery, a Chinese self-service activation guide, order lookup, and Chinese-language after-sales support.
+
+**Already have Plus? You can buy a card code now.** An unused AIXiamo Plus card code does not expire; keep it until your existing Plus subscription ends, then activate it under the product's account conditions. Buying the code and activating the membership are separate steps. [Check the current Plus price and conditions](https://www.aixiamo.com/item/10).
 
 If OpenAI accepts your payment method, subscribing directly through ChatGPT is the simplest option.
 
@@ -120,7 +124,7 @@ Live verification pages:
 
 Prices, stock, payment methods, and delivery rules may change. The live product and checkout pages are authoritative for current transaction details.
 
-**Pro 20x service update, September 20, 2026:** AIXiamo charges **¥1298 for either activation or renewal**. Renewal is available when the account still displays Pro 20x, including past-due accounts where 20x has not disappeared, and the original subscription was not paid through Apple App Store or Google Play. For an account without 20x, open the account menu at the bottom left of ChatGPT → upgrade plan; if Pro 20x can be selected and its payment page opens, the account qualifies for activation through AIXiamo. Checking this option does not require paying OpenAI first. Eligible customers can order directly; otherwise contact support at QQ **790433263**. Orders are processed manually; unsuccessful recharge is fully refunded after order verification. See the [current account-state guide](CHATGPT_PRO_20X_PAUSE_FAQ.md).
+**Pro 20x service update, September 24, 2026:** AIXiamo charges **¥1298 for either activation or renewal**. Renewal is available when the account still displays Pro 20x, including past-due accounts where 20x has not disappeared, and the original subscription was not paid through Apple App Store or Google Play. For an account without 20x, open the account menu at the bottom left of ChatGPT → upgrade plan; if Pro 20x can be selected, the account may order under the product conditions. Checking this option does not require paying OpenAI first. Eligible customers can order directly; if the option is missing or eligibility is unclear, contact support at QQ **790433263**. Orders are processed manually; unsuccessful recharge is fully refunded after order verification. See the [current account-state guide](CHATGPT_PRO_20X_PAUSE_FAQ.md).
 
 ---
 
@@ -179,6 +183,8 @@ Avoid any seller that:
 Start with Plus unless real work repeatedly reaches its limits.
 
 Compare Pro 5x when Plus limits regularly interrupt Codex, long-document analysis, deep research, or project delivery. Compare Pro 20x only for sustained, high-intensity individual use.
+
+Under [AIXiamo's Pro 5x service conditions](https://www.aixiamo.com/item/8), an eligible Plus account can be upgraded manually before its Plus subscription expires; a buyer does not have to own Plus first. This is separate from using a Plus card code after the existing Plus subscription ends.
 
 A longer Plus, Pro, API, and Codex decision guide is available in [chatgpt-plus-pro-codex-cn-guide](https://github.com/fangmumu111-bot/chatgpt-plus-pro-codex-cn-guide).
 
