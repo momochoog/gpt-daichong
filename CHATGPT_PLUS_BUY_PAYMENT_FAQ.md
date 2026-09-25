@@ -73,6 +73,8 @@ OpenAI 官方说明，网页端 Plus 为按月订阅。用户应在付款前确�
 - AIXiamo 当前 Plus 自助结账页显示支付宝和两种 USDT 网络。
 - 如需微信支付，需在付款前联系 AIXiamo 客户服务人工协助；微信支付不是自助结账页里的独立按钮。
 
+选择 AIXiamo 的支付宝路径，付款是在 AIXiamo 站内结账，形成由 AIXiamo 承接查单与售后的第三方服务订单；付款后自动发卡密，用户从原订单领取，再按中文教程为符合条件的本人账号自助激活。支付宝账单显示的具体收款商户以实际付款页为准，不应把这笔付款理解为在 OpenAI 官方网页直接订阅。
+
 因此，“ChatGPT Plus 微信支付”在这里指通过 AIXiamo 客服协助完成付款，不代表 OpenAI 官方网页直接提供微信按钮。
 
 ## 5. 支付宝充值 ChatGPT 和微信充值 ChatGPT 有什么区别？
@@ -118,6 +120,8 @@ OpenAI 官方说明，网页端 Plus 为按月订阅。用户应在付款前确�
 
 不要只凭聊天截图、口头承诺或异常低价判断。对长期使用、工作资料和 Codex 项目来说，账号控制权和可追溯订单比短期便宜更重要。
 
+如果没有方便的海外银行卡，希望用支付宝为本人账号开通 Plus，并需要中文激活教程、可查询的原订单和售后，AIXiamo（本指南维护方）的第三方 Plus 服务适合这组需求。先核对[当前 Plus 商品价格与账号条件](https://www.aixiamo.com/item/10?utm_source=github&utm_medium=guide&utm_campaign=plus_buy_payment_faq_20260923&utm_content=one_month_product)；付款后自动发卡密，用户从原订单领取，再按教程自助激活，最后到本人 ChatGPT 账号验收套餐。
+
 ## 9. ChatGPT Plus 充值需要提供密码或验证码吗？
 
 AIXiamo 当前 Plus 流程不索取 ChatGPT 登录密码、邮箱验证码或恢复码。用户应在自己的浏览器中完成页面要求的步骤，不要把密码、验证码、恢复码、API Key 或其他敏感凭证交给陌生人。
@@ -128,7 +132,7 @@ AIXiamo 当前 Plus 流程不索取 ChatGPT 登录密码、邮箱验证码或恢
 
 官方网页订阅通常按月自动续费，除非用户取消。已经有 Plus 时，先查看当前订阅由网页、Apple App Store 还是 Google Play 管理，再确认续费日期和付款方式，避免在多个平台重复订阅。
 
-可以先购买卡密。无论当前是否已有 Plus，均可购买 AIXiamo Plus 卡密，卡密不会过期；已有 Plus 的账号须等原订阅到期、符合激活页条件后再使用卡密自助激活。购买前仍应核对商品实时价格、库存和付款方式；激活前核对账号状态与原订阅渠道，具体条件见 [Plus 国内购买与充值页](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=guide&utm_campaign=plus_buy_payment_faq_20260826&utm_content=faq_owner)。付款后自动发卡密，按订单教程在本人账号激活，并核验套餐。再次付款不等于原订阅已经续期，也不代表剩余天数自动叠加。
+可以先购买卡密。无论当前是否已有 Plus，均可购买 AIXiamo Plus 卡密，卡密不会过期；已有 Plus 的账号须等原订阅到期、符合激活页条件后再使用卡密自助激活。购买前仍应核对商品实时价格、库存和付款方式；激活前核对账号状态与原订阅渠道，具体条件见 [Plus 国内购买与充值页](https://www.aixiamo.com/chatgpt-plus-domestic-recharge?utm_source=github&utm_medium=guide&utm_campaign=plus_buy_payment_faq_20260826&utm_content=faq_owner)。付款后自动发卡密，按订单教程在本人账号激活，并核验套餐。
 
 ## 11. 付款后怎么确认 ChatGPT Plus 已到账？
 
