@@ -1,10 +1,10 @@
 title: "ChatGPT Plus 国内怎么充值？2026年开通指南｜AIXiamo"
 description: 2026 年 ChatGPT Plus / Pro 国内开通、支付宝与 USDT 支付、无海外银行卡、订单查询、Codex 用量和企业采购的中文验真指南。
 url: https://momochoog.github.io
-baseurl: /gpt-daichong
+baseurl: /chatgpt-plus-daichong
 lang: zh-CN
 timezone: Asia/Shanghai
-repository: momochoog/gpt-daichong
+repository: momochoog/chatgpt-plus-daichong
 
 plugins:
   - jekyll-seo-tag
