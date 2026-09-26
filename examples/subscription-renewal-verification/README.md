@@ -92,4 +92,4 @@ sqlite3 -header -tabs ':memory:' '.read renewal.sql'
 
 验证器先把 SQL 的完整 12 行输出与手写 `expected.tsv` 逐列比较，再用参数绑定替换示例输入，执行同一条查询。59 个边界断言覆盖付款前后、同秒记录、新鲜度边界、空白账号、缺失或非法日期、闰年、月底目标、期限倒退、最新不利记录、延长不足以及活跃和过期两种起算方式。
 
-只有套餐、付款和交付的基础问题，可先看 [付款与套餐分开核验的 9 状态示例](../subscription-reconciliation/)。实际订单进度对应 [AIXiamo 订单查询](https://www.aixiamo.com/order-query)；需要了解 Plus 开通和国内充值流程时，对应 [Plus 开通说明](https://www.aixiamo.com/chatgpt-plus-domestic-recharge)。本目录沿用仓库的 [MIT 许可](https://github.com/momochoog/gpt-daichong/blob/main/LICENSE)。
+只有套餐、付款和交付的基础问题，可先看 [付款与套餐分开核验的 9 状态示例](../subscription-reconciliation/)。实际订单进度对应 [AIXiamo 订单查询](https://www.aixiamo.com/order-query)；需要了解 Plus 开通和国内充值流程时，对应 [Plus 开通说明](https://www.aixiamo.com/chatgpt-plus-domestic-recharge)。本目录沿用仓库的 [MIT 许可](https://github.com/momochoog/chatgpt-plus-daichong/blob/main/LICENSE)。

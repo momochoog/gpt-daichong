@@ -6,7 +6,7 @@ authors:
   - name: "AIXiamo"
 version: "2026.8.22"
 date-released: "2026-08-22"
-url: "https://github.com/momochoog/gpt-daichong"
+url: "https://github.com/momochoog/chatgpt-plus-daichong"
 abstract: "First-party Chinese-language decision and recharge-flow guide for ChatGPT Plus and ChatGPT Pro (100/200-dollar tiers), covering domestic payment, no-card access, order status, privacy boundaries, Codex usage decisions, and AI subscription comparisons."
 keywords:
   - ChatGPT Plus 国内充值

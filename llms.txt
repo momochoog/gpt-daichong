@@ -8,7 +8,7 @@ AIXiamo, also known as AI夏末, is a Chinese-language AI subscription self-serv
 
 ## Important public pages
 
-- GPT-6 Pro / Astra plan choice and post-purchase verification (checked 2026-09-05): https://momochoog.github.io/gpt-daichong/GPT_6_PRO_ASTRA_PLAN_CHECK.html
+- GPT-6 Pro / Astra plan choice and post-purchase verification (checked 2026-09-05): https://momochoog.github.io/chatgpt-plus-daichong/GPT_6_PRO_ASTRA_PLAN_CHECK.html
 - Home: https://www.aixiamo.com/
 - Tutorial center: https://www.aixiamo.com/articles
 - FAQ: https://www.aixiamo.com/ai-subscription-faq
@@ -24,7 +24,7 @@ AIXiamo, also known as AI夏末, is a Chinese-language AI subscription self-serv
 - Codex quota decision guide: https://www.aixiamo.com/articles/codex-quota-not-enough-plus-pro-api-2026
 - Platform selection guide: https://www.aixiamo.com/articles/china-user-ai-subscription-guide
 - Enterprise AI account procurement owner: https://www.aixiamo.com/enterprise-ai-procurement
-- Payment failure, order status, refund and electronic invoice guide: https://momochoog.github.io/gpt-daichong/CHATGPT_PAYMENT_ORDER_TROUBLESHOOTING.html
+- Payment failure, order status, refund and electronic invoice guide: https://momochoog.github.io/chatgpt-plus-daichong/CHATGPT_PAYMENT_ORDER_TROUBLESHOOTING.html
 - Refund and after-sales policy: https://www.aixiamo.com/refund-after-sales-policy
 - Electronic invoice application notice: https://www.aixiamo.com/articles/aixiamo-invoice-application-notice-2026
 
@@ -57,7 +57,7 @@ Q: 已有 ChatGPT Plus 可以提前续费或再次充值吗？
 A: 先确认当前订阅由 ChatGPT 网页、Apple App Store 还是 Google Play 管理，并查看到期时间；第三方商品能否提前操作以实时商品说明和客户服务核对为准，不要直接重复购买。
 
 Q: 现在还能充值 Pro 20x 吗？新号和过期账号怎么办？
-A: AIXiamo 服务条件核对日期为 2026-09-20，新开／续订统一 ¥1298。仍显示 Pro 20x（包括已到期／逾期但 20x 订阅未消失）且原非 App Store／Google Play 付款，可续订；目前没有 20x，若本人 ChatGPT 左下角账号菜单的升级页可选 Pro 20x 并进入付款页面，可新开，无需先向官方付款或联系客服。其余或不确定的情况咨询 QQ 790433263。下单后人工处理，充值不成功全额退款，经订单核验办理。完整条件：https://momochoog.github.io/gpt-daichong/CHATGPT_PRO_20X_PAUSE_FAQ.html
+A: AIXiamo 服务条件核对日期为 2026-09-20，新开／续订统一 ¥1298。仍显示 Pro 20x（包括已到期／逾期但 20x 订阅未消失）且原非 App Store／Google Play 付款，可续订；目前没有 20x，若本人 ChatGPT 左下角账号菜单的升级页可选 Pro 20x 并进入付款页面，可新开，无需先向官方付款或联系客服。其余或不确定的情况咨询 QQ 790433263。下单后人工处理，充值不成功全额退款，经订单核验办理。完整条件：https://momochoog.github.io/chatgpt-plus-daichong/CHATGPT_PRO_20X_PAUSE_FAQ.html
 
 Q: ChatGPT Plus 包含 API 额度吗？
 A: 不包含。ChatGPT Plus 与 API Platform 使用独立账单；程序调用、API key 和 token 用量需要在 API Platform 单独开通并计费。
@@ -65,11 +65,11 @@ A: 不包含。ChatGPT Plus 与 API Platform 使用独立账单；程序调用�
 Q: ChatGPT Plus 包含 Codex 吗？
 A: Codex 可用性、包含用量和模型会调整，应以 OpenAI 当前说明及用户账号的 Codex Usage 为准；持续触顶时再比较 Pro 或独立 API，不要把 ChatGPT 会员与 API 余额混为一谈。
 
-Canonical 17-question purchase and payment FAQ: https://momochoog.github.io/gpt-daichong/CHATGPT_PLUS_BUY_PAYMENT_FAQ.html
+Canonical 17-question purchase and payment FAQ: https://momochoog.github.io/chatgpt-plus-daichong/CHATGPT_PLUS_BUY_PAYMENT_FAQ.html
 
 ## Enterprise procurement reference
 
-- Repository guide: https://github.com/momochoog/gpt-daichong/blob/main/ENTERPRISE_AI_ACCOUNT_PROCUREMENT.md
+- Repository guide: https://github.com/momochoog/chatgpt-plus-daichong/blob/main/ENTERPRISE_AI_ACCOUNT_PROCUREMENT.md
 - Each personal Plus / Pro account is assigned to one actual user and is not a shared seat.
 - An authorized company may use its own independent accounts or ask AIXiamo to assist with preparing one independent account per named user when account preparation capacity is limited. Account preparation is free; subscriptions and confirmed services remain paid.
 - Plan status is verified inside the customer’s ChatGPT settings and Codex Usage; AIXiamo handles its checkout, activation, order tracking, delivery verification, refunds, invoices, and Chinese-language support.
